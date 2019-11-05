@@ -4,8 +4,9 @@ Attributes:
 lengthOfDogHair (string)
 typeOfBreed (string)
 male (boolean)
-sizeOfDog (integer)
-blueCollar (string)
+colorOfCollar (string)
+weightOfDog (integer)
+averageWeightOfDog (integer)
 
 Methods:
 changeCollar (goesFromBlueToRed)
