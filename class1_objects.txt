@@ -1,0 +1,11 @@
+Object: Dinner Glass
+
+Attributes:
+color: "Pink"
+totalCapacity 1000
+currentCapacity 800
+
+Methods:
+calculatePercentFull: 800 / 1000 = .8
+changeColor: color = "Blue"
+clean: glass now clean

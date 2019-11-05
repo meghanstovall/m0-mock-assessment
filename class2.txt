@@ -1,0 +1,14 @@
+Class: Dog
+
+Attributes:
+lengthOfDogHair (string)
+typeOfBreed (string)
+male (boolean)
+sizeOfDog (integer)
+blueCollar (string)
+
+Methods:
+changeCollar (goesFromBlueToRed)
+determineIfDogIsMale (yes/no)
+calculateSizeOfDOG (weightOfDog and lengthOfDog)
+ChangeLengthOfDogHair (longToShort)

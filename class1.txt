@@ -1,0 +1,11 @@
+Class: Glass
+
+Attributes:
+color (string)
+totalCapacity (integer)
+currentCapacity (integer)
+
+Methods:
+calculatePercentFull (divides currentCapacity by totalCapacity)
+changeColor (changes the color attribute)
+clean (cleans the glass)

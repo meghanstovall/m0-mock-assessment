@@ -1,0 +1,14 @@
+Object: Comet
+
+Attributes:
+lengthOfDogHair: "long"
+typeOfBreed: "Golden Retriever"
+male: "yes"
+colorOfCollar: "blue"
+weightOfDog: "70lbs"
+
+Methods:
+ChangeLengthOfDogHair= "short"
+changeColorOfCollar= "red"
+determineIfDogIsMale: yes
+determineIfDogIsOverweight:(use weightOfDog - averageWeightOfDog)
