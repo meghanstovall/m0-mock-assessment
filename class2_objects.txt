@@ -3,7 +3,7 @@ Object: Comet
 Attributes:
 lengthOfDogHair: "long"
 typeOfBreed: "Golden Retriever"
-male: true
+isMale: true
 colorOfCollar: "blue"
 weightOfDog: 70
 averageWeightOfDog: 65
@@ -12,4 +12,4 @@ Methods:
 changeLengthOfDogHair: lengthOfDogHair = "short"
 changeColorOfCollar: colorOfCollar = "red"
 determineIfDogIsMale: return male
-determineIfDogIsOverweight:(use weightOfDog - averageWeightOfDog) 70 - 65
+determineIfDogIsOverweight: 70 - 65

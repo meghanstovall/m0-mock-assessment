@@ -3,13 +3,13 @@ Class: Dog
 Attributes:
 lengthOfDogHair (string)
 typeOfBreed (string)
-male (boolean)
+isMale (boolean)
 colorOfCollar (string)
 weightOfDog (integer)
 averageWeightOfDog (integer)
 
 Methods:
-changeCollar (goesFromBlueToRed)
-determineIfDogIsMale (yes/no)
-calculateSizeOfDOG (weightOfDog and lengthOfDog)
 ChangeLengthOfDogHair (longToShort)
+changeColorOfCollar (goesFromBlueToRed)
+determineIfDogIsMale (yes/no)
+determineIfDogIsOverweight (weightOfDog - averageWeightOfDog)
